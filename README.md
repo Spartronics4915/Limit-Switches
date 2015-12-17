@@ -17,6 +17,8 @@ $ git clone https://github.com/<YourUsernameHere>/LimitSwitches.git
 $ cd LimitSwitches
 $ git remote add upstream https://github.com/Spartronics4915/LimitSwitches.git
 
+```
+
 1. Open Eclipse.
 1. `File` -> `Import` -> `General` -> `Existing Projects`
 1. Browse for the root directory, select the `LimitSwitches` folder.
