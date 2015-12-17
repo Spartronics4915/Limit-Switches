@@ -11,6 +11,7 @@
 *.un~
 *.war
 *~
+\#*\#
 *~.nib
 .buildpath
 .classpath
