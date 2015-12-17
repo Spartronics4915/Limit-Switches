@@ -8,7 +8,7 @@ Robotics! Push button make metal go whrrrr.
 
 Click the "Fork" button in the top right, then proceed!
 
-The `$` means "enter the bit after this at a command prompt or terminal".
+The `$` means "enter the bit after this at a command prompt or terminal."
 
 ```sh
 
