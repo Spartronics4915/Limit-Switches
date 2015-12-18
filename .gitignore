@@ -11,6 +11,7 @@
 *.un~
 *.war
 *~
+\#*\#
 *~.nib
 .buildpath
 .classpath
@@ -45,4 +46,4 @@ gradle-app.setting
 hs_err_pid*
 local.properties
 tmp/
-
+workbench.xmi
